@@ -1,0 +1,207 @@
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.AssemblyReference.cache
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.GenerateResource.cache
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfoInputs.cache
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfo.vb
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CoreCompileInputs.cache
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.exe
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.deps.json
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.json
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.dev.json
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CopyComplete
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.genruntimeconfig.cache
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.mahasiswa.resources
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.kelas.resources
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.matakuliah.resources
+C:\Users\astrid\Pictures\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Resources.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.exe
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.deps.json
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.json
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.dev.json
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.AssemblyReference.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.kelas.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.mahasiswa.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.matakuliah.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Resources.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.GenerateResource.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfoInputs.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfo.vb
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CoreCompileInputs.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CopyComplete
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.genruntimeconfig.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Keuangan.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KHS.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\Project .NET\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KRS.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.exe
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.deps.json
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.json
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.dev.json
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.AssemblyReference.cache
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.kelas.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Keuangan.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KHS.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KRS.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.mahasiswa.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.matakuliah.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Resources.resources
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.GenerateResource.cache
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfoInputs.cache
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfo.vb
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CoreCompileInputs.cache
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CopyComplete
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\astrid\Downloads\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.genruntimeconfig.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.exe
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.deps.json
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.json
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.dev.json
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.AssemblyReference.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.kelas.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Keuangan.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KHS.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KRS.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.mahasiswa.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.matakuliah.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Resources.resources
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.GenerateResource.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfoInputs.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfo.vb
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CoreCompileInputs.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CopyComplete
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.genruntimeconfig.cache
+C:\Users\Haris Dwi Nur Almaas\Desktop\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KeuanganAdmin.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.exe
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.deps.json
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.json
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.dev.json
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.kelas.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Keuangan.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KeuanganAdmin.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KHS.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KRS.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.mahasiswa.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.matakuliah.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Resources.resources
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.GenerateResource.cache
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfoInputs.cache
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfo.vb
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CoreCompileInputs.cache
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CopyComplete
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.genruntimeconfig.cache
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.AssemblyReference.cache
+C:\Users\astrid\Downloads\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dosen.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.exe
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.deps.json
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.json
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.dev.json
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.AssemblyReference.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dosen.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.kelas.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Keuangan.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KeuanganAdmin.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KHS.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KRS.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.mahasiswa.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.matakuliah.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Resources.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.GenerateResource.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfo.vb
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CopyComplete
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\asus\Documents\1.2 Semester 6\.NET\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.genruntimeconfig.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.exe
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.deps.json
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.json
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.runtimeconfig.dev.json
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.AssemblyReference.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dosen.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.kelas.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Keuangan.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KeuanganAdmin.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KHS.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.KRS.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.mahasiswa.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.matakuliah.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.Resources.resources
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.GenerateResource.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.AssemblyInfo.vb
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.vbproj.CopyComplete
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.dll
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.pdb
+C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\obj\Debug\netcoreapp3.1\DataMaster.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = My Project\app.manifest
+build_property.StartupObject = DataMaster.KHS
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = DataMaster
+build_property.ProjectDir = C:\Users\asus\Documents\1.2 Semester 6\.NET\old\DataMaster (1)\DataMaster\DataMaster\DataMaster\
